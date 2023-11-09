@@ -1,6 +1,6 @@
 'use strict';
 
-let i = 1;
+let i = 5;
 
 function count() {
     //the detail
